@@ -1,5 +1,5 @@
 def func():
-    print("-_-")
+    print("=)")
 
 
 def main():
